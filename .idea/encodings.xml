@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo_1.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo_2.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo_5.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/deque_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/list_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/queue_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stack_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/string_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vector_demo.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/理论基础.md" charset="GBK" />
+  </component>
+</project>
