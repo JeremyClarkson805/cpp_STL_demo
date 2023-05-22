@@ -231,3 +231,20 @@ void test_14()
     }
     cout<<"num = "<<num<<endl;
 }
+
+void myf(int x)
+{
+    x = x * 2;
+    cout<<x<<endl;
+}
+
+void test_32()
+{
+    vector<int> v = {2,4,6,8,10};
+    for_each(v.begin(),v.end(),myf);
+    for(auto &t:v)
+    {
+        cout<<t<<"  ";
+    }
+    cout<<endl;
+}

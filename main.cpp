@@ -17,7 +17,7 @@ using namespace std;
 
 int main()
 {
-    test_30();
+    test_32();
     return 0;
 }
 
